@@ -1,0 +1,59 @@
+.navbar li .glyphicon {
+  margin-right: 10px;
+}
+
+/* Highlighting rules for nav menu items */
+.navbar .navbar-nav .active a,
+.navbar .navbar-nav .active a:hover,
+.navbar .navbar-nav .active a:focus {
+  background-image: none;
+  background-color: yellowgreen;
+  color: white;
+}
+
+.navbar {
+  margin-top: 180px;
+}
+
+.logo {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+h1 {
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  margin-top: -100px;
+  white-space: nowrap;
+  background-position-x: 100px;
+  margin-left: 500px;
+  color: darkslategray;
+}
+
+.header {
+  background-color: yellowgreen;
+  height: 181px;
+  width: 1549px;
+  margin-left: -14px;
+  margin-top: -10px;
+  position: relative;
+}
+.header1 {
+  margin-top: -160px;
+}
+
+#navbarSupportedContent {
+  background-color: black;
+  height: 60px;
+}
+
+.nav-link {
+  margin-left: 25px;
+}
+li a:hover {
+  color: #640200;
+  background-color: yellowgreen;
+  padding: 12px;
+}
+
