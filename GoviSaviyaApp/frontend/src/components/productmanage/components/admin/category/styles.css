@@ -1,0 +1,36 @@
+.admin_main_tab tr td {
+  padding: 3px;
+}
+
+.admin_main_tab tr td input,
+.admin_main_tab tr td select {
+  height: 15px;
+}
+
+.legend_heading {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: black;
+  background-color: #e0e0e0;
+  padding: 0px 10px;
+}
+
+.fieldset {
+  width: 750px;
+  background-color: #e0e0e0;
+  margin: auto;
+}
+
+.tb-border td,
+.tb-border th {
+  border: 1px solid #ccc;
+  padding: 5px;
+  text-align: center;
+  background-color: #fff;
+}
+
+#content {
+  padding: 4px;
+  width: 587px;
+  height: 834px;
+}
